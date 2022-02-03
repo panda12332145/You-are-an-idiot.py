@@ -1,5 +1,4 @@
 # You-are-an-idiot.py
-# By:panda12331245
 
 <h2 align="center">You-are-an-idiot recreated in python</h2>
 
