@@ -54,9 +54,3 @@ label = Label(root)
 label.pack()
 root.after(0, update, 0)
 root.mainloop()
-
-#pygame.mixer.init()
-
-#def play():
-#pygame.mixer.music.load("you-are-an-idiot-idiot.mp3")
-#pygame.mixer.music.play(loops=0)
