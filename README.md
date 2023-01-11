@@ -23,7 +23,7 @@
 
   <p align="center">
   <kbd>
-  <img width="400" style="border-radius: 5px" height="280" src="https://c.tenor.com/jx-vfRytp4oAAAAd/you-are-an-idiot-idiot.gif">
+  <img width="400" style="border-radius: 5px" height="280" src="https://media.tenor.com/W9t4G8la9w4AAAAd/you-are-idiot.gif">
   </kbd>
   </p>
 
